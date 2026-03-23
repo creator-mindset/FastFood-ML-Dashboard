@@ -1,4 +1,4 @@
-# 🍔 AI-Powered Fast Food Analytics & Recommendation System
+# 🍔 AI Fast Food Analytic Dashboard
 
 ## 📊 Project Overview
 
@@ -65,6 +65,7 @@ The dashboard not only analyzes historical data but also integrates **machine le
 * **Python** (Pandas, Scikit-learn)
 * **Machine Learning** (Linear Regression)
 * **Power BI** (Dashboarding & AI visuals)
+* **Google Collab**
 * **DAX** (Advanced calculations & recommendation logic)
 
 
