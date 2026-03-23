@@ -6,7 +6,7 @@ This project is an advanced **AI-driven Fast Food Analytics Dashboard** built us
 
 The dashboard not only analyzes historical data but also integrates **machine learning predictions, recommendation systems, and AI-based insights** to help brands like **Burger King, KFC, and McDonald's** optimize their offerings and improve customer satisfaction.
 
----
+
 
 ## 🚀 Key Features
 
@@ -16,7 +16,7 @@ The dashboard not only analyzes historical data but also integrates **machine le
 * Brand-level pricing and rating comparison
 * Nutrition-based insights (Calories, Protein, Fat, Carbs)
 
----
+
 
 ### 🤖 Machine Learning Integration
 
@@ -24,7 +24,7 @@ The dashboard not only analyzes historical data but also integrates **machine le
 * Generated **future predicted ratings** for each item
 * Integrated ML predictions directly into Power BI for dynamic insights
 
----
+
 
 ### 🔥 AI Recommendation System
 
@@ -32,7 +32,7 @@ The dashboard not only analyzes historical data but also integrates **machine le
 * Suggests **focus items for business growth**
 * Provides **data-driven recommendations** for menu optimization
 
----
+
 
 ### 🧠 Key Influencer Analysis (AI Insights)
 
@@ -47,7 +47,7 @@ The dashboard not only analyzes historical data but also integrates **machine le
   * Optimize pricing
   * Reduce calories
 
----
+
 
 ### 🎯 Business Decision Support
 
@@ -58,7 +58,7 @@ The dashboard not only analyzes historical data but also integrates **machine le
   * Improve product strategy using AI insights
 * Enables **data-driven decision making** similar to real-world analytics teams
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -67,13 +67,12 @@ The dashboard not only analyzes historical data but also integrates **machine le
 * **Power BI** (Dashboarding & AI visuals)
 * **DAX** (Advanced calculations & recommendation logic)
 
----
+
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/creator-mindset/FastFood-ML-Dashboard/blob/main/Screenshot%202026-03-22%20125537.png?raw=true)
 
----
 
 ## 💡 Business Value & Impact
 
@@ -89,7 +88,7 @@ This project demonstrates how data can be transformed into actionable insights:
   * KFC
   * McDonald's
 
----
+
 
 ## 📂 Dataset Description
 
@@ -102,7 +101,7 @@ The dataset includes:
 * Customer Ratings
 * Derived metrics (Health Score, Efficiency metrics)
 
----
+
 
 ## 🔍 Unique Highlights
 
@@ -112,7 +111,7 @@ The dataset includes:
 * Created a **future prediction system inside Power BI**
 * Designed a **business-ready dashboard UI**
 
----
+
 
 ## 🧑‍💻 Author
 
