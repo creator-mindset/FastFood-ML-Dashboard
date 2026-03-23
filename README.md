@@ -94,13 +94,24 @@ This project demonstrates how data can be transformed into actionable insights:
 ## 📂 Dataset Description
 
 The dataset includes:
-
-* Food Items
+'Brand', 'Item', 'Price', 'Category', 'Calories', 'Protein', 'Fat',
+       'Carbs', 'City', 'State', 'Month', 'Rating', 'Calories_per_rupees',
+       'Protein_per_rupees', 'Health_score'
+* Brand
+* Item
 * Price
+* Category
 * Calories
-* Protein, Fat, Carbs
-* Customer Ratings
-* Derived metrics (Health Score, Efficiency metrics)
+* Protein
+* Fat
+* Carbs
+* City
+* State
+* Month
+* Rating
+* Calories_per_rupees
+* Protein_per_rupees
+* Health_score
 
 
 
